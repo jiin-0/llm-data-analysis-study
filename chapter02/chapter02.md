@@ -4,16 +4,16 @@
 
 ## 0. 제출 정보
 
-- 이름:
-- GitHub ID:
+- 이름: 김지인
+- GitHub ID: jiin-0
 - 개인 저장소: `llm-data-analysis-study`
-- 작성일:
-- 운영체제:
+- 작성일: 2026.09.14
+- 운영체제: Windows
 
 ### 최종 제출 URL
 
 ```text
-https://github.com/<GitHub-ID>/llm-data-analysis-study/blob/main/chapter02/chapter02.md
+https://github.com/jiin-0/llm-data-analysis-study/blob/main/chapter02/chapter02.md
 ```
 
 ---
